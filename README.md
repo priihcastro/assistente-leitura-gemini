@@ -52,7 +52,7 @@ Este projeto usa `getpass` para pedir sua chave quando você roda a primeira cé
 
 *   Python
 *   Google Colab
-*   Google Gemini API (modelo `gemini-1.0-flash`)
+*   Google Gemini API (modelo `gemini-2.0-flash`)
 *   Biblioteca Gradio
 
 Espero que goste e que seja útil! 😊
